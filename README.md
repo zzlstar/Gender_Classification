@@ -11,3 +11,4 @@ Installation & Execution
 5) You can run the code as `python main.py -i absolute_path_to_dataset -o absolute_path_of_output`
 6) Software is portable with Python 2.7 and Python 3.x
 7) If you have any problem with the code, feel free to share with us.
+8) NO VGG.py
